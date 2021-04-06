@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @abbasrsyedk. a.k.a R.S.K.Abbas
 - 👀 I’m interested in Python and everything it can possibly do. 
-- 🌱 I’m currently learning pygame and java
+- 🌱 I’m currently learning web dev ,java and advanced python
 - 📫 Contact me at rskabbas@outlook.com
-- I'm a Student at VIT UNIVERSITY AP.
-- I've taken Electronics as a main course.
-- I regret not taking computer science as a main course 
+- I'm a Student at VIT AP.
 - I like everything about Automobiles.
 - Peace 
