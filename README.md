@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @abbasrsyedk. a.k.a R.S.K.Abbas
-- 👀 I’m interested in Python and everything it can possibly do. 
-- 🌱 I’m currently learning web dev ,java and advanced python
-- 📫 Contact me at rskabbas@outlook.com
-- I'm a Student at VIT AP.
-- I like everything about Automobiles.
-- Peace 
+- 👋 Hi, I’m @abbasrsyedk. a.k.a R.S.K.Abbas;
+- 👀 I’m interested in whatever i am currently doing; 
+- 🌱 I’m currently learning react.js and django;
+- 📫 Contact me at rskabbas@outlook.com;
+- I'm a Student at VIT AP;
+- I like Automobiles and FishNChips;
+- Peace
+- oops i forgot a semicolon after peace;
