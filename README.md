@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm R S K ABBAS</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **React projects**
+- 🌱 I’m currently learning **Core Java**
 
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Advanced Java Projects**
 
 - 📫 How to reach me **rskabbas@outlook.com**
 
