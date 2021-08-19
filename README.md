@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABBAS RSK</h1>
-<h3 align="center">A passionate Java Developer from India</h3>
+<h3 align="center">A passionate FrontEnd Developer from India</h3>
 
 - 🔭 I’m currently working on **Advanced JavaScript Projects**
 
