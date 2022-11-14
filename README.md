@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **replacing DES with a better alternative.**
 
-- 🌱 I’m currently learning **Fundamentals of Azure, Synapse, Data Factory.**
+- 🌱 I’m currently learning **Fundamentals of Azure, Synapse, Data Factory, Microsoft Power Apps, Dynamics 365.**
 
-- 💬 Ask me about **the Solution to replace DES Deprecation.**
+- 💬 Ask me about **The Replacement for DES Deprecation.**
 
 - 📫 How to reach me **rskabbas@outlook.com**
 
